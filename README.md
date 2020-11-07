@@ -1,7 +1,7 @@
 ### Hi I'm Arturo 👋
 
 - 🔭 I’m currently working on Web Frameworks and security tools.
-- 😄 Machine learning my new object. Code lover. 
+- 😄 Machine learning my new object. Code love.
 - 🌱 I’m currently learning about Go, Python, Java, Bash and Docker.
 - 👯 I’m looking to collaborate in any project.
 - 📫 How to reach me:https://twitter.com/DevTuron 😄
