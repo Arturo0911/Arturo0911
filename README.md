@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Web Frameworks and security tools.
 - 😄 Machine learning my new object. Code love.
-- 🌱 I’m fall in love in Java and Python; coming soon Golang too.😄😄😄😄😄😄😄😄😄😄😄😄😄
+- 🌱 I’m fall in love with Python, Java; coming soon Golang too.
 - 👯 I’m looking to collaborate in any project.
 - 📫 How to reach me:https://twitter.com/DevTuron 😄
 -->
