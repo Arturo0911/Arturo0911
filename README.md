@@ -1,12 +1,15 @@
 ### Hi I'm Arturo 👋
 
+
+
 - 🔭 I’m currently working on Web Frameworks and security tools.
 - 😄 Machine learning my new object. Code love.
-- 🌱 I’m currently learning about Go, Python, Java, Bash and Docker.
+- 🌱 I’m fall in love with Machine learning and Android.
 - 👯 I’m looking to collaborate in any project.
+- 📫 My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
 - 📫 How to reach me:https://twitter.com/DevTuron 😄
 -->
-
+## Believe in yourself
 <!--
 **Arturo0911/Arturo0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
