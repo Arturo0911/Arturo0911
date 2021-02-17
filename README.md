@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Code lover
+## Tech lover
 
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
