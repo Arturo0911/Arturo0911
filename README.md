@@ -31,6 +31,11 @@ Here are some ideas to get you started:
   <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/python-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
 </p>
 
