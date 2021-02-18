@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on Web Frameworks and security tools.
-- 😄 Machine learning my new object. Code love.
-- 🌱 I’m fall in love with Machine learning and Android
-- 👯 I’m looking to collaborate in any project.
-- 📫 My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
-- 📫 How to reach me:https://twitter.com/DevTuron 😄
+- I am a software developer and a tech nerd.
+- 😄 Always researching and learning.
+- Android and IA lover.
+- I am looking to collaborate in any project.
+- My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
+- How to contact me: https: //twitter.com/DevTuron 😄
 -->
 ## Believe in yourself
 <!--
