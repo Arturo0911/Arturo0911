@@ -4,7 +4,7 @@
 
 - I am a software developer and a tech nerd.
 - 😄 Always researching and learning.
-- Android and IA lover.
+- Systems Architecture and Security Lover.
 - I am looking to collaborate in any project.
 - My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
 - How to contact me: https: //twitter.com/DevTuron 😄
