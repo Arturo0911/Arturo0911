@@ -1,6 +1,6 @@
 ### Hi I'm Arturo 👋
 
-
+<img src="https://miro.medium.com/max/2310/1*Z5FdBMXzl5PGHt8AVfslcw.gif" width=350><br>
 
 - I am a software developer and a tech nerd.
 - 😄 Always researching and learning.
