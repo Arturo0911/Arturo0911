@@ -23,8 +23,9 @@ In this repository you will find experimental code, such as technical interviews
 <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
 
-Since the end of 2020 (apocalyptic year) I became a Golang and Python developer.
 
+Three years as Python and Java Developer
+Since the end of 2020 (apocalyptic year) I became a Golang developer.
 
 
 <strong>Why? 🤔</strong>
