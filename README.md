@@ -9,19 +9,12 @@
 <strong>Status</strong>
 =======
 
-Currently I am a software developer, I am learning about neural networks and systems architecture. I'm a Linux lover, so much so, that i have two distributions in my personal computer. 
+Currently I am a freelance software developer, I am learning about neural networks and systems architecture. I'm a Linux lover, so much so, that i have two distributions in my personal computer. 
 
 <p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-</p>
-
-In this repository you will find experimental code, such as technical interviews and / or projects on backend architecture and android projects.
-
-<p>
-<img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-<img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
 </p>
 
 
@@ -31,9 +24,18 @@ In this repository you will find experimental code, such as technical interviews
 
 Three years as Python and Java Developer. Making projects with Django, Nodejs, Gorilla and Spring-boot. If I had to choose any of them as a backend, I would choose Spring-boot for its robustness. In mobile development, I would definitely choose Java for Android.
 
-
+<p>
+<img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
+</p>
 
 Since 2020 (apocalyptic year), the taste for cybersecurity and data science has been awakened, using my Python skills to improve in testing makes me feel much more passionate in these areas, and I am very happy to say that cybersecurity(developing exploits) and artificial intelligence(deep learning with neuronal networks), to be my specialties in the future, additional that I use Golang in these areas
+
+<strong>Why? 🤔</strong>
+=======
+
+Building complex neural networks makes me choose the most related, fast-performing and highly scalable technologies to artificial intelligence (deep learning)
+
 
 <p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
