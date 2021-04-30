@@ -9,15 +9,21 @@
 <strong>Status</strong>
 =======
 
-Currently I am a software developer, I am learning about neural networks and systems architecture. I'm a Linux lover, so much so, that i have two distributions in my personal computer.
+Currently I am a software developer, I am learning about neural networks and systems architecture. I'm a Linux lover, so much so, that i have two distributions in my personal computer. 
 
+<p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+</p>
 
 In this repository you will find experimental code, such as technical interviews and / or projects on backend architecture and android projects.
 
 <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
+
+<strong>Skills.</strong>
+=======
 
 
 Three years as Python and Java Developer.
