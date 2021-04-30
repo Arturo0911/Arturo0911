@@ -1,12 +1,8 @@
 
-
-
-<strong>Who am i ?</strong>
+<strong>Hello.</strong>
 =======
 
-<h2>I am Arturo Negreiros 😄.</h2>
-
-[![Reach me](https://shields.io/badge/chat-23%20online-brightgreen)](https://twitter.com/DevTuron)
+<h2>I am Arturo Negreiros 😄. I'm from Ecuador</h2>
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDevTuron)](https://twitter.com/DevTuron)
 
