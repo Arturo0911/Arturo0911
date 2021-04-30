@@ -26,7 +26,7 @@ In this repository you will find experimental code, such as technical interviews
 =======
 
 
-Three years as Python and Java Developer.
+Three years as Python and Java Developer. Making projects with Django and Spring-boot. If I had to choose any of them as a backend, I would choose Spring-boot for its robustness.
 
 Since the end of 2020 (apocalyptic year) I became a Golang developer.
 
