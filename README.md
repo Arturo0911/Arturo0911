@@ -40,8 +40,9 @@ Building complex neural networks makes me choose the most related, fast-performi
 <p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-<img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
+
 </p>
 
 - My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
