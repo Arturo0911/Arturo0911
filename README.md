@@ -35,7 +35,7 @@ Since 2020 (apocalyptic year), the taste for cybersecurity and data science has 
 =======
 
 Building complex neural networks makes me choose the most related, fast-performing and highly scalable technologies to artificial intelligence (deep learning)
-
+For fast development i use Python, and for handling big features, Golang.
 
 <p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
