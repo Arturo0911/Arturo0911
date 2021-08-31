@@ -22,12 +22,12 @@ Currently I am a freelance software developer, I am learning about neural networ
 =======
 
 
-Three years as Python and Java Developer. Making projects with Django, Nodejs, Gorilla and Spring-boot. If I had to choose any of them as a backend, I would choose Spring-boot for its robustness. In mobile development, I would definitely choose Java for Android.
+<!--Three years as Python and Java Developer. Making projects with Django, Nodejs, Gorilla and Spring-boot. If I had to choose any of them as a backend, I would choose Spring-boot for its robustness. In mobile development, I would definitely choose Java for Android.
 
 <p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
-</p>
+</p>-->
 
 Since 2020 (apocalyptic year), the taste for cybersecurity and data science has been awakened, using my Python skills to improve in testing makes me feel much more passionate in these areas, and I am very happy to say that cybersecurity(developing exploits) and artificial intelligence(deep learning with neuronal networks), to be my specialties in the future, additional that I use Golang in these areas
 
