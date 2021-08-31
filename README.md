@@ -9,7 +9,7 @@
 <strong>Status</strong>
 =======
 
-Currently I am a freelance software developer, I am learning about neural networks and systems architecture. I'm a Linux lover, so much so, that i have two distributions in my personal computer. 
+Currently I am a freelance software developer, I am learning about neural networks, systems architecture and pentesting using Python. I'm a Linux lover, so much so, that i have two distributions in my personal computer. 
 
 <p>
 <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
@@ -45,8 +45,6 @@ For fast development i use Python, and for handling big features, Golang.
 </p>
 
 - My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
-
-## Believe in yourself
 <!--
 **Arturo0911/Arturo0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
