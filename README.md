@@ -18,7 +18,7 @@ Currently I am a freelance software developer, I am learning about Penetration t
 <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
 </p>
 
-I was testing between performance, good practices and strong and rapid development and my boys (Python, Golang), they have left me more than comfortable.
+I was testing between performance, good practices, sturdiness and rapid development and my boys (Python, Golang), they have left me more than comfortable.
 
 
 - My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
