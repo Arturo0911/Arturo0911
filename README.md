@@ -16,6 +16,7 @@ Currently I am a freelance software developer, I am learning about Penetration t
 <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
+<img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
 </p>
 
 I was testing between performance, good practices, sturdiness and rapid development and my boys (Python, Golang), they have left me more than comfortable.
