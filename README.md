@@ -28,3 +28,4 @@ I was testing between performance, good practices, sturdiness and rapid developm
 #### you can reachme in twitter
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDevTuron)](https://twitter.com/DevTuron)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arturo0911)](https://github.com/anuraghazra/github-readme-stats)
