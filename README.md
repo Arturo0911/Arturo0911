@@ -1,6 +1,6 @@
 
 
-Computer Science engineer, I'm learning about penetration testing, specifically Reverse Engineering and Linux Security performance. I am a Linux lover, so much so that I have two distributions on my personal computer.
+Computer Science engineer, I'm learning about Reversing, specifically Reverse Engineering on Linux and Windows Systems. I am a Linux lover, so much so that I have two distributions on my personal computer.
 
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
