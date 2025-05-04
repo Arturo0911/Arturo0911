@@ -24,8 +24,4 @@ Computer Science engineer, I'm learning about Reversing, specifically Reverse En
 I was testing between performance, good practices, sturdiness and rapid development and my boys (Python, Golang), they have left me more than comfortable.
 
 
-- My linkedin profile: https://www.linkedin.com/in/arturo-negreiros-saman%C3%A9z-8a34251a1/
-#### you can reachme in twitter
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDevTuron)](https://twitter.com/DevTuron)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arturo0911)](https://github.com/anuraghazra/github-readme-stats)
