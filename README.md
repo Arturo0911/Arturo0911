@@ -5,7 +5,7 @@ Computer Science engineer, I'm learning about Reversing, specifically Reverse En
 <p>
   <img width="15%" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/ghidra.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />
+  <img width="15%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkrQ6ElBN8pgzZ8YTMK0Wegqju23v3ANClA&s" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
 </p>
 
